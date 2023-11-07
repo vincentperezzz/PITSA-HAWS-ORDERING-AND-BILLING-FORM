@@ -1,0 +1,18 @@
+D:\ACER\Documents\Visual Studio Projects\PRGM Activities\Immersion Project\PITSA HAWS ORDERING AND BILLING FORM\bin\Debug\net6.0-windows\PITSA HAWS ORDERING AND BILLING FORM.exe
+D:\ACER\Documents\Visual Studio Projects\PRGM Activities\Immersion Project\PITSA HAWS ORDERING AND BILLING FORM\bin\Debug\net6.0-windows\PITSA HAWS ORDERING AND BILLING FORM.deps.json
+D:\ACER\Documents\Visual Studio Projects\PRGM Activities\Immersion Project\PITSA HAWS ORDERING AND BILLING FORM\bin\Debug\net6.0-windows\PITSA HAWS ORDERING AND BILLING FORM.runtimeconfig.json
+D:\ACER\Documents\Visual Studio Projects\PRGM Activities\Immersion Project\PITSA HAWS ORDERING AND BILLING FORM\bin\Debug\net6.0-windows\PITSA HAWS ORDERING AND BILLING FORM.dll
+D:\ACER\Documents\Visual Studio Projects\PRGM Activities\Immersion Project\PITSA HAWS ORDERING AND BILLING FORM\bin\Debug\net6.0-windows\PITSA HAWS ORDERING AND BILLING FORM.pdb
+D:\ACER\Documents\Visual Studio Projects\PRGM Activities\Immersion Project\PITSA HAWS ORDERING AND BILLING FORM\obj\Debug\net6.0-windows\PITSA HAWS ORDERING AND BILLING FORM.vbproj.AssemblyReference.cache
+D:\ACER\Documents\Visual Studio Projects\PRGM Activities\Immersion Project\PITSA HAWS ORDERING AND BILLING FORM\obj\Debug\net6.0-windows\PITSA_HAWS_ORDERING_AND_BILLING_FORM.Form1.resources
+D:\ACER\Documents\Visual Studio Projects\PRGM Activities\Immersion Project\PITSA HAWS ORDERING AND BILLING FORM\obj\Debug\net6.0-windows\PITSA HAWS ORDERING AND BILLING FORM.vbproj.GenerateResource.cache
+D:\ACER\Documents\Visual Studio Projects\PRGM Activities\Immersion Project\PITSA HAWS ORDERING AND BILLING FORM\obj\Debug\net6.0-windows\PITSA HAWS ORDERING AND BILLING FORM.GeneratedMSBuildEditorConfig.editorconfig
+D:\ACER\Documents\Visual Studio Projects\PRGM Activities\Immersion Project\PITSA HAWS ORDERING AND BILLING FORM\obj\Debug\net6.0-windows\PITSA HAWS ORDERING AND BILLING FORM.AssemblyInfoInputs.cache
+D:\ACER\Documents\Visual Studio Projects\PRGM Activities\Immersion Project\PITSA HAWS ORDERING AND BILLING FORM\obj\Debug\net6.0-windows\PITSA HAWS ORDERING AND BILLING FORM.AssemblyInfo.vb
+D:\ACER\Documents\Visual Studio Projects\PRGM Activities\Immersion Project\PITSA HAWS ORDERING AND BILLING FORM\obj\Debug\net6.0-windows\PITSA HAWS ORDERING AND BILLING FORM.vbproj.CoreCompileInputs.cache
+D:\ACER\Documents\Visual Studio Projects\PRGM Activities\Immersion Project\PITSA HAWS ORDERING AND BILLING FORM\obj\Debug\net6.0-windows\PITSA HAWS ORDERING AND BILLING FORM.dll
+D:\ACER\Documents\Visual Studio Projects\PRGM Activities\Immersion Project\PITSA HAWS ORDERING AND BILLING FORM\obj\Debug\net6.0-windows\refint\PITSA HAWS ORDERING AND BILLING FORM.dll
+D:\ACER\Documents\Visual Studio Projects\PRGM Activities\Immersion Project\PITSA HAWS ORDERING AND BILLING FORM\obj\Debug\net6.0-windows\PITSA HAWS ORDERING AND BILLING FORM.pdb
+D:\ACER\Documents\Visual Studio Projects\PRGM Activities\Immersion Project\PITSA HAWS ORDERING AND BILLING FORM\obj\Debug\net6.0-windows\PITSA HAWS ORDERING AND BILLING FORM.genruntimeconfig.cache
+D:\ACER\Documents\Visual Studio Projects\PRGM Activities\Immersion Project\PITSA HAWS ORDERING AND BILLING FORM\obj\Debug\net6.0-windows\ref\PITSA HAWS ORDERING AND BILLING FORM.dll
+D:\ACER\Documents\Visual Studio Projects\PRGM Activities\Immersion Project\PITSA HAWS ORDERING AND BILLING FORM\obj\Debug\net6.0-windows\PITSA_HAWS_ORDERING_AND_BILLING_FORM.Resources.resources
